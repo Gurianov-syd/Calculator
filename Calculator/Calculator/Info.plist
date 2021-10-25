@@ -37,7 +37,7 @@
 					<string>Main</string>
 				</dict>
 			</array>
-		</dict>
+		</dict> 
 	</dict>
 	<key>UIApplicationSupportsIndirectInputEvents</key>
 	<true/>
